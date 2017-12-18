@@ -1,6 +1,6 @@
 # Meta
 
-This repository is a place to outline the basics of what AFOL Incubator is. It (and the rest of AFOL Incbuator) are being allowed to sit fairly empty in public (think of it as a public alpha), because this should be a product of the community at every step of the way. You're encouraged to step in and help out with anything you see here. While this is set up to handle software, most of our resources will be human-readable and easily edited directly from the GitHub site.
+This repository is a place to outline the basics of what AFOL Incubator is. It (and the rest of AFOL Incubator) are being allowed to sit fairly empty in public (think of it as a public alpha), because this should be a product of the community at every step of the way. You're encouraged to step in and help out with anything you see here. While this is set up to handle software, most of our resources will be human-readable and easily edited directly from the GitHub site.
 
 In short, AFOL Incubator is a community and set of resources for creating AFOLs and growing the skills that expand the hobby. It is intended as a permanent set of guidelines to help people participate in (or even run) public displays of original LEGO creations.
 
