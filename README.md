@@ -19,3 +19,10 @@ We would like to develop the following resources as part of AFOL Incubator:
 - A quick reference of other online resources
 and whatever else may be of use for expanding the AFOL hobby.
 
+## Why GitHub?
+GitHub's primarily a software site, but the key thing is that it enables global collaboration. Git is a widely-known source code control system that's been found to be capable of handling versions and changes for projects far beyond software - if you poke around on GitHub, you'll find hundreds of repositories that list resources, document other projects, or save personal settings. GitHub is a powerful social network based around Git. Editing text files like the ones that make up the bulk of AFOL Incubator can be done entirely on the website. This allows us to use a powerful software development tool without requiring anyone to learn the ins-and-outs of the tool - but those of us who know how to handle Git repositories from the command line can quickly clone entire projects and have a local backup.
+
+## Why the MIT License?
+It's very important that we keep these resources available. The MIT License makes it trivial for people to legally and frictionlessly do essentially anything they want with these resources. This isn't dependant on walled-garden tools (like the LEGO Ambassador Network), technologies that fade in popularity (like the newsgroups on USENET or LUGNET), or anything that the LEGO company might pull the plug on some day (like LEGOFan.org or your Rebrick data). If the people in charge of this get hit by a bus tomorrow, someone else can start it up again somewhere else. Between the legal protections offered by this license and how quickly these resources can be copied with a "git clone" command, things we work on here can reasonably be expected to be available for the foreseeable future.
+
+Other licenses (such as Creative Commons licenses) were also evaluated for this project, but the MIT license seemed like the best fit for the variety of material we hope will be available here over the years.
