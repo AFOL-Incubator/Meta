@@ -11,11 +11,14 @@ Additionally, not everything on this site is age-specific. It is aimed at adults
 
 ## Resources
 We would like to develop the following resources as part of AFOL Incubator:
-- A repository of resources on finding display opportunities
+- [Meta](https://github.com/AFOL-Incubator/Meta) A repository of resources on AFOL Incubator itself
+- [Events](https://github.com/AFOL-Incubator/Events) A repository of resources on finding display opportunities
 - A repository of resources on how to manage a display
 - A repository of resources on how to run an event
 - An online forum for passing certain opportunities on to other AFOLs
 - A quick reference of collaborative building standards
+- [Curricula](https://github.com/AFOL-Incubator/Curricula) A repository of presentations and handouts that can be given at events
+- A reference on relevant games and activities
 - A quick reference of other online resources
 and whatever else may be of use for expanding the AFOL hobby.
 
